@@ -1,1 +1,12 @@
-
+{
+  "name": "ID Selling Bot",
+  "description": "Telegram ID Selling Bot",
+  "repository": "https://github.com/vinitgodaragodara9-spec/Radhe",
+  "keywords": ["telegram", "bot"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Enter your Telegram Bot Token",
+      "required": true
+    }
+  }
+}
